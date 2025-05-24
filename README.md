@@ -112,8 +112,3 @@ Fork the project, make changes, and submit a pull request 🤝
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
----
-
-👉 Let me know if you want help generating the screenshot images or auto-publishing this to GitHub with proper folder structure!
-```
