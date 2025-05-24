@@ -4,7 +4,7 @@ from datetime import datetime
 
 TASKS_FILE = "tasks.txt"
 LOG_FILE = "log.txt"
-DEBUG = True  # Set to False for full Pomodoro duration
+DEBUG = False  # Set to False for full Pomodoro duration
 
 
 def clear():
