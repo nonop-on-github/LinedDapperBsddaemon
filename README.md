@@ -71,8 +71,6 @@ python3 main.py
 
 ## 📸 Screenshots
 
-> Add these image files in a `docs/` folder
-
 ### Main Menu
 
 ![Main Menu](docs/screenshot-main.png)
@@ -110,5 +108,3 @@ Fork the project, make changes, and submit a pull request 🤝
 ## 🪪 License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
