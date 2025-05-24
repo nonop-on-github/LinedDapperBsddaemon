@@ -48,13 +48,13 @@ cd terminal-productivity-tracker
 ### 2. Run the app
 
 ```bash
-python tracker.py
+python main.py
 ```
 
 > If you’re on a system where `python` runs version 2.x, use:
 
 ```bash
-python3 tracker.py
+python3 main.py
 ```
 
 ---
@@ -63,7 +63,7 @@ python3 tracker.py
 
 | File         | Description                          |
 | ------------ | ------------------------------------ |
-| `tracker.py` | Main application                     |
+| `main.py`    | Main application                     |
 | `tasks.txt`  | Auto-created file storing your tasks |
 | `log.txt`    | Log file storing Pomodoro history    |
 
