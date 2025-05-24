@@ -41,8 +41,8 @@ A lightweight and cross-platform terminal application that helps you manage task
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/terminal-productivity-tracker.git
-cd terminal-productivity-tracker
+git clone https://github.com/nonop-on-github/TermTime.git
+cd TermTime
 ````
 
 ### 2. Run the app
